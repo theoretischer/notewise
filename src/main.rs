@@ -1,4 +1,5 @@
 mod app;
+mod model;
 mod ui;
 
 use gtk4::glib::ExitCode;
